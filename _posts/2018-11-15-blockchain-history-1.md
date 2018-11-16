@@ -19,6 +19,7 @@ author: wuxy
 
 
 ## 参考
-- [bitcoin whitepaper](docs/bitcoin.pdf)
+
+- [bitcoin whitepaper](../docs/bitcoin.pdf)
 
 - [blockchain wikipedia](https://en.wikipedia.org/wiki/Blockchain)
