@@ -8,7 +8,8 @@ type: page
 
 ---
 
-## About me
+## 关于本站
+
 ![img](../images/EOS-lion-crystal.png)
 
 ### 愿景
@@ -23,19 +24,26 @@ type: page
 * 区块链应用推广
 * 区块链开发
 
-### 免责申明
+### 申明
 * 本站的内容均为作者收录或编写，仅代表个人理解，具体以官方文件为准；
-* 本站收录或转载的内容，均会取得作者授权，如有未注明出处或禁止转载，请联系本站作者。
+* 本站收录或转载的内容，均会取得作者授权，如有未注明出处或禁止转载，请联系本站作者；
+* 本站所有内容欢迎转载，但请注明出处。
 
 
-## Contact author
+## 关于作者
+
+作者是一群志同道合的人。
+
+作者本着“自由，分享”的理念去理解区块链，作者的价值观是“生命的意义在于以生命影响生命”。
+
+欢迎小伙伴联系我们，并加入我们。同时有任何疑问或意见都可以在Issue中告诉我们，我们将第一时间回复你们。
 
 * GitHub：[wuxy](https://github.com/wuxyBlockChain)
 * email：wuxy_od@163.com
-* [知乎](https://www.zhihu.com/people/wu-xin-you-78)
 
 
-## Update Log
+
+## 更新日志
 
 * 2018.11.15 本站建立完成。
 
@@ -43,7 +51,3 @@ type: page
 ## 友情链接
 
 [羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
-
-## Comments
-
-{% include comments.html %}
