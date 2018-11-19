@@ -11,18 +11,24 @@ author: 大鱼
 {:toc}
 
 
-![bitcoin1.png](../images/bitcoin1.png)
+![bitcoin1.png](/images/bitcoin1.png)
 
 ## 作者
 
 作者： 中本聪
+
 邮箱： satoshin@gmx.com
+
 网址： www.bitcoin.org
 
 翻译
+
 作者：生猛老会计（杨怀玉）
+
 链接：https://www.jianshu.com/p/126313779582
+
 來源：简书
+
 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
 
 
