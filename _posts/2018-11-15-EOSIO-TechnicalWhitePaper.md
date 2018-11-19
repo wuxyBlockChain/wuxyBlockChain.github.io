@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "区块链发展史（一）"
-date:   2018-11-15 11:06:05
-categories: Philosophy
-tags:  发展史
-author: wuxy
+title:  "EOS.IO 技术白皮书"
+date:   2018-11-15 13:06:05
+categories: Technology
+tags:  EOS 白皮书 译文
+author: block.one
 ---
 
 * content
 {:toc}
 
+author:block.one
+data:2017年6月5日
 
 
 本文将简单的介绍一下区块链的发展史。

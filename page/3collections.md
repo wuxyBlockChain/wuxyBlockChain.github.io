@@ -9,11 +9,23 @@ type: page
 * content
 {:toc}
 
-## 工具
+## 区块链布道平台
 
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
+区块链布道平台主要收录一些推广和解说区块链的平台。
 
-    生成 box-shadow 的工具。
+### 微信公众号
+
+* 区块链大师：是一个很不错的区块链布道公众号，里面的文章专业而风趣，简单易懂又不缺乏深度。
+
+### 知乎
+
+* [精读比特币白皮书](https://zhuanlan.zhihu.com/p/28786301)
+
+作者：大雨，已转载至区块链大师公众号，精读比特币白皮书系列主要翻译和解读比特币白皮书，内容生动，解读深刻。
+
+
+
+
 
 * [gradient-generator](http://www.cssmatic.com/gradient-generator)
 
