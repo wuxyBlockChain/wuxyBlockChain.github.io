@@ -187,6 +187,7 @@ p=诚实节点找到下一区块的概率
 q=攻击者找到下一区块的概率
 
 qz=攻击者在Z区块后赶上的概率
+
 ![bitcoin-whitepaper-cal1.png](/images/bitcoin-whitepaper-cal1.png)
 
 > We consider the scenario of an attacker trying to generate an alternate chain faster than the honest chain. Even if this is accomplished, it does not throw the system open to arbitrary changes, such as creating value out of thin air or taking money that never belonged to the attacker. Nodes are not going to accept an invalid transaction as payment, and honest nodes will never accept a block containing them. An attacker can only try to change one of his own transactions to take back money he recently spent.
@@ -198,6 +199,7 @@ qz = probability the attacker will ever catch up from z blocks behind
 
 
 我们给定一个假设，p>q, 随着攻击者不得不赶上的区块数量不断增长，其概率呈指数级下降。由于胜算与其相悖，如果他无法幸运地在早期取得突飞猛进，则将被远远地甩在后面，他篡改（的可能性）将变得微乎其微。我们现在考虑在充分确定付款人不能修改交易之前，此笔新交易的收款人需要等待多长时间。我们假设这位付款人是攻击者，他想让收款人相信当时已经支付了，过一段时间后，将其改换为支付给他自己。事情发生时，会惊动收款人，但这个付款人希望是为时已晚。收款人生成一对新的密钥，将公钥给予付款人，并在签署前预留较短时间。如此将阻止（下述事情）发生：付款人通过连续不断地工作，提前准备区块链，直到他非常幸运地到达足够远的前方，（即其区块链长度超过诚实区块链长度），然后执行该交易。一旦该交易发送，不诚实的付款人在一条包含一项他的交易替代版本的并行的链条上秘密开始工作。收款人等到该笔交易已经纳入了一个区块，且已有 Z个区块连接在后。他并不知道攻击者已经制造增长（区块）的确切数量，但假设诚实区块在每一区块上预期耗费的时间的均等，攻击者区块潜在增长将呈“泊松分布”，期望值为：
+
 ![bitcoin-whitepaper-cal2.png](/images/bitcoin-whitepaper-cal2.png)
 
 
@@ -336,4 +338,4 @@ q=0.45 z=340
 
 如果我们关注一下白皮书的参考文献，就不难发现，其实比特币并不是凭空出现的，在她之前已经有很多探路者，也正是因为这些失败的探路者给中本聪留下了宝贵的经验，同时比特币被公认为是区块链1.0，以区块链1.0为基础，2.0,3.0……正在被创造，所以区块链正在成长之中，任何人都能够为区块链的发展舔砖加瓦。
 
-读者也可以下载：[比特币白皮书-原稿](/doc/bitcoin.pdf)
+读者也可以下载：[比特币白皮书-原稿](/docs/bitcoin.pdf)
