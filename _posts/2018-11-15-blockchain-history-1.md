@@ -2,7 +2,7 @@
 layout: post
 title:  "区块链发展史（一）"
 date:   2018-11-15 11:06:05
-categories: Philosophy
+categories: 发展史
 tags:  发展史
 author: wuxy
 ---

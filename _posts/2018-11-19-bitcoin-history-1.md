@@ -2,7 +2,7 @@
 layout: post
 title:  "比特币历史（一）"
 date:   2018-11-19 11:06:05
-categories: 哲学
+categories: 发展史
 tags:  发展史 比特币
 author: 大鱼
 ---

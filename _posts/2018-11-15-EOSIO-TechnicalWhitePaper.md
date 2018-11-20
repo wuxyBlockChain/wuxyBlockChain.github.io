@@ -2,7 +2,7 @@
 layout: post
 title:  "EOS.IO 技术白皮书"
 date:   2018-11-15 13:06:05
-categories: Technology
+categories: 技术推广
 tags:  EOS 白皮书 译文
 author: block.one
 ---
